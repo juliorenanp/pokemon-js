@@ -64,7 +64,7 @@ button.active{
 #pokemon{
     width:16.0em;
     /* height:14.4em; */
-    position:relative;
+    position:absolute;
     margin:0 auto;
     -webkit-transform:translateZ(0em) translateY(0em) translateX(0em) rotateX(0deg) rotateY(0deg);
     transform:translateZ(0em) translateY(0em) translateX(0em) rotateX(0deg) rotateY(0deg)
