@@ -11,7 +11,7 @@
     font-style:italic
 }
 body{
-    background-color:#bbac58;
+    /* background-color:#bbac58; */
     color:#2f3622;
     font-family:'Pokemon', monospace;
     font-size:20px;
@@ -35,7 +35,7 @@ h1,h2,h3,h4,h5,h6{
     color:#bbac58
 }
 button{
-    background:#bbac58;
+    /* background:#bbac58; */
     color:#4d5d31;
     border:1px solid #4d5d31;
     border-radius:0.3em;
@@ -208,7 +208,7 @@ span span,.button span,.level span,.name span{
     border-image:url("img/frame.svg") 45% stretch;
     border-style:solid;
     border-width:0.7em;
-    background:#bbac58
+    /* background:#bbac58 */
 }
 .windows .window.texts{
     margin:0;
